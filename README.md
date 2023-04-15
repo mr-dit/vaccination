@@ -1,5 +1,5 @@
 # vaccination
-project for UTMN university 2 course
+project for UTMN  2 course
 
 
-#первый коммит в моей жизни!!!!!!
+# первый коммит в моей жизни!!!!!!
